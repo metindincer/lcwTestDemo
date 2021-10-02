@@ -1,0 +1,7 @@
+2021-10-02 18:33:37,135 INFO  [Log] user_Login()succesfull 
+2021-10-02 18:33:41,855 INFO  [Log] search_pantolon()succesfull 
+2021-10-02 18:33:46,791 INFO  [Log] click_pantolon()succesfull 
+2021-10-02 18:33:51,366 INFO  [Log] check_price()succesfull 
+2021-10-02 18:33:52,039 INFO  [Log] add_one_more_product_and_check()succesfull 
+2021-10-02 18:33:56,175 INFO  [Log] removeProductFromCart()succesfull 
+2021-10-02 18:34:00,393 INFO  [Log] clear_carts_and_check()succesfull 
